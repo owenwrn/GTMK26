@@ -15,5 +15,12 @@
 			"Name": "GPULightmass",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"Linux",
+		"Mac",
+		"Windows"
 	]
 }
